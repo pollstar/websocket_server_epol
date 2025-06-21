@@ -1,0 +1,35 @@
+# Build directories
+/build/
+/build*/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Visual Studio Code settings
+.vscode/
+
+# Compiled binaries and object files
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+*.a
+*.lib
+*.pdb
+
+# Test and temporary files
+*.log
+*.tmp
+*.swp
+
+# Backup files
+*~
+*.bak
+
+# Ignore
